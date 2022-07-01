@@ -1,0 +1,7 @@
+﻿  RandomSampling.cpp
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\RandomSampling\RandomSampling.cpp(32,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\RandomSampling\RandomSampling.cpp(149,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\RandomSampling\RandomSampling.cpp(161,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\RandomSampling\RandomSampling.cpp(183,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\RandomSampling\RandomSampling.cpp(205,20): warning C4018: “<”: 有符号/无符号不匹配
+  SelectCars.vcxproj -> E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\RandomSampling\Debug\RandomSampling.exe
