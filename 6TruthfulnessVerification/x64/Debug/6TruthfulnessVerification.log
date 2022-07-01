@@ -1,0 +1,5 @@
+﻿  6TruthfulnessVerification.cpp
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\6TruthfulnessVerification\GlobalDefinition.h(1,1): warning C4828: 文件包含在偏移 0x1154 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\6TruthfulnessVerification\6TruthfulnessVerification.cpp(871,39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\6TruthfulnessVerification\6TruthfulnessVerification.cpp(931,39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  6TruthfulnessVerification.vcxproj -> E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\6TruthfulnessVerification\x64\Debug\6TruthfulnessVerification.exe
