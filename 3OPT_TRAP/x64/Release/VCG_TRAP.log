@@ -1,0 +1,56 @@
+﻿  CPLEX_TEST.cpp
+  test.cpp
+  OPT_TRAP.cpp
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\GlobalDefinition.h(1,1): warning C4828: 文件包含在偏移 0xef6 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\OPT_TRAP.cpp(491,36): warning C4244: “=”: 从“IloNum”转换到“int”，可能丢失数据
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\OPT_TRAP.cpp(508,42): warning C4244: “=”: 从“IloNum”转换到“int”，可能丢失数据
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\OPT_TRAP.cpp(742,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\OPT_TRAP.cpp(742,47): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\OPT_TRAP.cpp(742,75): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\OPT_TRAP.cpp(742,101): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\OPT_TRAP.cpp(743,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\OPT_TRAP.cpp(743,49): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\OPT_TRAP.cpp(743,78): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\OPT_TRAP.cpp(743,105): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 451 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+concert.lib(iloenv.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(iloenv.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(iloextractable.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(iloextractable.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(iloalg.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(iloalg.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(ilotypes.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(ilotypes.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(iloexpression.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(iloexpression.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(iloconstraint.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(iloconstraint.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(iloallocator.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(iloallocator.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(iloiterator.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(iloiterator.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(ilothread.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(ilothread.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(strtod.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(strtod.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(ilohash.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(ilohash.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(ilosimplecollection.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(ilosimplecollection.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(ilorandom.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(ilorandom.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(evaluator.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(evaluator.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(evalexpand.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(evalexpand.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(iloset.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(iloset.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(ilostimei.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(ilostimei.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(iloanyexpr.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(iloanyexpr.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(ilocollectionstruct.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(ilocollectionstruct.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(ilocollection.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(ilocollection.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(ilocollectioniterator.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(ilocollectioniterator.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(ilomap.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(ilomap.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(ilocollectionoperator.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(ilocollectionoperator.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(ilosbasic.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(ilosbasic.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(iloparami.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(iloparami.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(iloskiplist.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(iloskiplist.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(ilonumfunci.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(ilonumfunci.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(evalkernel.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(evalkernel.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(ilosdisplayi.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(ilosdisplayi.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(iloserror.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(iloserror.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(ilointervalsi.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(ilointervalsi.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(ilosatomi.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(ilosatomi.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(ilosmodel.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(ilosmodel.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(ilossol.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(ilossol.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(ilossequencei.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(ilossequencei.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(ilosolution.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(ilosolution.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+concert.lib(ilosstructi.obj) : warning LNK4099: 未找到 PDB“concert.pdb”(使用“concert.lib(ilosstructi.obj)”或在“F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\concert.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  VCG_TRAP.vcxproj -> F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\code\3OPT_TRAP\x64\Release\3OPT_TRAP.exe
