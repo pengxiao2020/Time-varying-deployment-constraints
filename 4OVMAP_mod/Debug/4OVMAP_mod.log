@@ -1,0 +1,19 @@
+﻿  OVMAP_mod.cpp
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\4OVMAP_mod\OVMAP_mod.cpp(150,23): warning C4018: “<”: 有符号/无符号不匹配
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\4OVMAP_mod\OVMAP_mod.cpp(440,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\4OVMAP_mod\OVMAP_mod.cpp(447,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\4OVMAP_mod\OVMAP_mod.cpp(449,21): warning C4018: “<”: 有符号/无符号不匹配
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\4OVMAP_mod\OVMAP_mod.cpp(483,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\4OVMAP_mod\OVMAP_mod.cpp(487,22): warning C4018: “<”: 有符号/无符号不匹配
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\4OVMAP_mod\OVMAP_mod.cpp(531,23): warning C4018: “<”: 有符号/无符号不匹配
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\4OVMAP_mod\OVMAP_mod.cpp(586,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\4OVMAP_mod\OVMAP_mod.cpp(602,22): warning C4018: “<”: 有符号/无符号不匹配
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\4OVMAP_mod\OVMAP_mod.cpp(616,22): warning C4018: “<=”: 有符号/无符号不匹配
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\4OVMAP_mod\OVMAP_mod.cpp(618,11): warning C4018: “<”: 有符号/无符号不匹配
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\4OVMAP_mod\OVMAP_mod.cpp(642,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\4OVMAP_mod\OVMAP_mod.cpp(722,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\4OVMAP_mod\OVMAP_mod.cpp(791,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\4OVMAP_mod\OVMAP_mod.cpp(799,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\4OVMAP_mod\OVMAP_mod.cpp(825,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\4OVMAP_mod\OVMAP_mod.cpp(882,20): warning C4018: “<”: 有符号/无符号不匹配
+  4OVMAP_mod.vcxproj -> F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\4OVMAP_mod\Debug\4OVMAP_mod.exe
