@@ -1,0 +1,17 @@
+﻿  OTRAP.cpp
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\OTRAP\OTRAP.cpp(28,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\OTRAP\OTRAP.cpp(149,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\OTRAP\OTRAP.cpp(168,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\OTRAP\OTRAP.cpp(181,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\OTRAP\OTRAP.cpp(249,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\OTRAP\OTRAP.cpp(269,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\OTRAP\OTRAP.cpp(276,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\OTRAP\OTRAP.cpp(278,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\OTRAP\OTRAP.cpp(320,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\OTRAP\OTRAP.cpp(327,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\OTRAP\OTRAP.cpp(352,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\OTRAP\OTRAP.cpp(364,24): warning C4018: “<”: 有符号/无符号不匹配
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\OTRAP\OTRAP.cpp(391,24): warning C4552: ”-“: 未使用表达式结果
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\OTRAP\OTRAP.cpp(392,22): warning C4552: ”-“: 未使用表达式结果
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\OTRAP\OTRAP.cpp(394,24): warning C4018: “<”: 有符号/无符号不匹配
+  OTRAP.vcxproj -> E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\OTRAP\Debug\OTRAP.exe

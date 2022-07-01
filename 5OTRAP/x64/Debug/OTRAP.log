@@ -1,0 +1,4 @@
+﻿  OTRAP.cpp
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\4OTRAP\OTRAP.cpp(826,39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\4OTRAP\OTRAP.cpp(886,39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  OTRAP.vcxproj -> E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\4OTRAP\x64\Debug\OTRAP.exe

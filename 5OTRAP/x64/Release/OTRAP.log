@@ -1,0 +1,11 @@
+﻿E:\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(OTRAP.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  OTRAP.cpp
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\5OTRAP\GlobalDefinition.h(1,1): warning C4828: 文件包含在偏移 0x1125 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\5OTRAP\OTRAP.cpp(812,39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\5OTRAP\OTRAP.cpp(872,39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  4 of 599 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  OTRAP.vcxproj -> E:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\5OTRAP\x64\Release\5OTRAP.exe
