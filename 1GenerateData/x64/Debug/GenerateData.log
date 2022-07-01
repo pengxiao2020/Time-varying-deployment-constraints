@@ -1,0 +1,4 @@
+﻿  GenerateData.cpp
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\1GenerateData\GenerateData.cpp(1968,55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\1GenerateData\GenerateData.cpp(1320): warning C4172: 返回局部变量或临时变量的地址: arrCA
+  GenerateData.vcxproj -> F:\Microsoft Visual Studio\code\Time-Varying Deployment Constraints\1GenerateData\x64\Debug\GenerateData.exe
